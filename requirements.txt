@@ -1,0 +1,10 @@
+datasets
+transformers
+torch
+pandas
+matplotlib
+scikit-learn
+emoji
+imbalanced-learn
+streamlit
+seaborn
