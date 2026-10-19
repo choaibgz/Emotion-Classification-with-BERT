@@ -1,0 +1,7 @@
+outputs/model_bert.pth
+model_bert_backup.pth
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
